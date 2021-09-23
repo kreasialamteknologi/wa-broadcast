@@ -65,3 +65,5 @@ typings/
 .next
 
 session.json
+
+ws_client_php/vendor
